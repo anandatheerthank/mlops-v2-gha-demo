@@ -35,6 +35,6 @@ variables:
   terraform_workingdir: infrastructure
   terraform_st_resource_group: devops_pipelineRG
   terraform_st_location: $(location)
-  terraform_st_storage_account: mlops311220249859857345
+  terraform_st_storage_account: mymlops30122021017820935
   terraform_st_container_name: default
   terraform_st_key: mlops-tab
