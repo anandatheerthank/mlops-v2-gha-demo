@@ -24,11 +24,11 @@ variables:
 
   # For pipeline reference
   resource_group: devops_pipelineRG
-  aml_workspace: mlops31122024
-  application_insights: mlops311220248671462642
-  key_vault: mlops311220241298439598
-  container_registry: mycr31122024
-  storage_account: mlops311220249859857345
+  aml_workspace: mymlops30122024
+  application_insights: mymlops30122025210521560
+  key_vault: mymlops30122029904551148
+  container_registry: mymlops30122026613225806
+  storage_account: mymlops30122021017820935
 
   # For terraform reference
   terraform_version: 0.14.7
