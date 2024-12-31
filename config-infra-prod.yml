@@ -24,11 +24,11 @@ variables:
 
   # For pipeline reference
   resource_group: devops_pipelineRG
-  aml_workspace: mlw-$(namespace)-$(postfix)$(environment)
-  application_insights: mlw-$(namespace)-$(postfix)$(environment)
-  key_vault: kv-$(namespace)-$(postfix)$(environment)
-  container_registry: cr$(namespace)$(postfix)$(environment)
-  storage_account: st$(namespace)$(postfix)$(environment)
+  aml_workspace: mlops31122024
+  application_insights: mlops311220248671462642
+  key_vault: mlops311220241298439598
+  container_registry: mycr31122024
+  storage_account: mlops311220249859857345
 
   # For terraform reference
   terraform_version: 0.14.7
